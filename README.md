@@ -2,63 +2,46 @@
 <h3 align="center">A React developer who loves JavaScript 😜</h3>
 
 [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/anjula-sack?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)][linkedin]
+[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/anjula-sack/)][linkedin]
 
-- 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
+- 🔭 Working as a Software Engineer Intern at [Rootcode Labs](https://rootcodelabs.com/)
+- 📚 Volunteer at [Sustainable Educational Foundation (SEF)](https://sefglobal.org/)
 - 🌱 &ensp;I’m currently learning Flutter ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 3 years
-- ⚡ &ensp;Fun fact: I love reading & podcasts
-- 📫 &ensp;How to reach me: [**Twitter**][twitter]
+- ⚡ &ensp;Fun fact: I love Transformers & fast cars
+- 📫 &ensp;How to reach me: [**Linkedin**][linkedin]
 
 ### Connect With Me
 
 [<img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
 [<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
-[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
 [<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
-
-<!--[<img align="left" alt="Johannes Milke | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
 [<img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
-[<img align="left" alt="Johannes Milke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium] -->
+[<img align="left" alt="Johannes Milke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium]
 
 
 <br />
 <br />
 
 ### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />][youtube]
+[<img align="left" alt=React width="26px" src="./icons/react/react-original.svg" />]
+[<img align="left" alt=TypeScript width="26px" src="./icons/typescript/typescript-original.svg" />]
+[<img align="left" alt=JavaScript width="26px" src="./icons/javascript/javascript-original.svg" />]
+[<img align="left" alt=Redux width="26px" src="./icons/redux/redux-original.svg" />]
 
 
 
 <br />
 <br />
-
----
-
-### 📺 &ensp;Latest Medium Articles 
-
-<!-- YOUTUBE:START -->
-- [Flutter Tutorial - Stack Layout Basics 3/3 - Row, Column, Stack](https://www.youtube.com/watch?v=JZRBHY2xgu4)
-- [Flutter Tutorial - Row Layout Basics 2/3 - Row, Column, Stack](https://www.youtube.com/watch?v=lY5GtNkvyhM)
-- [Flutter Tutorial - Column Layout Basics 1/3 - Row, Column, Stack](https://www.youtube.com/watch?v=nW9pAyDs-wE)
-- [Flutter Tutorial - FloatingActionButton Widget (FAB)](https://www.youtube.com/watch?v=oCbo-yyrfXE)
-- [Flutter Tutorial - Dart List Utility Methods: ForEach, Map, Contains, Sort, Reduce, Where, Expand](https://www.youtube.com/watch?v=W-gIKcS_hQA)
-<!-- YOUTUBE:END -->
-
-➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
-
----
 
 ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
+- [Chip widget: Material Design with Flutter]()
 <!-- BLOG-POST-LIST:END -->
 
-➡️ &ensp;[More Articles...](https://medium.com/@JohannesMilke)
+➡️ &ensp;[More Articles...](https://medium.com/@anjulashanaka)
 
 
 
