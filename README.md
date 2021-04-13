@@ -1,14 +1,12 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Anjula Shanaka!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://anjula.me">Anjula Shanaka!</a></h1>
 <h3 align="center">A React developer who loves JavaScript 😜</h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Youtube](https://img.shields.io/static/v1?label=AnjulaShanaka&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![GitHub followers](https://img.shields.io/github/followers/anjula-sack?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/anjula-sack/)][linkedin]
+[![Linkedin: anjula-sack](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/anjula-sack/)][linkedin]
 
 - 🔭 Working as a Software Engineer Intern at [Rootcode Labs](https://rootcodelabs.com/)
 - 📚 Volunteer at [Sustainable Educational Foundation (SEF)](https://sefglobal.org/)
-- 🌱 &ensp;I’m currently learning Flutter ❤️
-- 👯 &ensp;I’m looking to collaborate with other content creators
 - ⚡ &ensp;Fun fact: I love Transformers & fast cars
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin]
 
@@ -25,10 +23,10 @@
 <br />
 
 ### Languages and Tools
-[<img align="left" alt=React width="26px" src="./icons/react/react-original.svg" />]
-[<img align="left" alt=TypeScript width="26px" src="./icons/typescript/typescript-original.svg" />]
-[<img align="left" alt=JavaScript width="26px" src="./icons/javascript/javascript-original.svg" />]
-[<img align="left" alt=Redux width="26px" src="./icons/redux/redux-original.svg" />]
+<img align="left" alt=React width="26px" src="./icons/react/react-original.svg" />
+<img align="left" alt=TypeScript width="26px" src="./icons/typescript/typescript-original.svg" />
+<img align="left" alt=JavaScript width="26px" src="./icons/javascript/javascript-original.svg" />
+<img align="left" alt=Redux width="26px" src="./icons/redux/redux-original.svg" />
 
 
 
@@ -38,16 +36,27 @@
 ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Chip widget: Material Design with Flutter]()
+- [Launching a virtual machine on AWS EC2 instance](https://medium.com/weekly-webtips/launching-a-virtual-machine-on-amazon-ec2-instance-c385ec4fc2a2)
+- [Getting started with Express Js](https://medium.com/weekly-webtips/creating-a-minimal-and-flexible-node-js-web-application-with-express-863966ac6945)
+- [Deploying a webapp with Heroku](https://medium.com/weekly-webtips/how-to-deploy-a-webapp-using-heroku-a1f99fbb912d)
+- [Deploying static website with surge](https://medium.com/weekly-webtips/how-to-publish-a-static-web-using-surge-db1258527f0f)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ &ensp;[More Articles...](https://medium.com/@anjulashanaka)
 
+### 📹 &ensp;Latest Knowledge Sharing Sessions
 
+<!-- BLOG-POST-LIST:START -->
+- [Introduction to Micro frontends](https://youtu.be/GLQLvncHe8Q)
+- [Cross-site scripting attacks (XSS)](https://youtu.be/kFobonVl6Gc)
+- [Getting started with NextJs](https://youtu.be/xCT3W47thGE)
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ &ensp;[More Videos...][youtube]
 
 [website]: https://anjula.me
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
+[youtube]: https://www.youtube.com/playlist?list=PLx4Ro8e0E8S_GmG75brlX1yGbILEiuY7m
 [linkedin]: https://linkedin.com/in/anjula-sack
 [github]: https://github.com/anjula-sack
 [facebook]: https://www.facebook.com/anjula.shanaka
