@@ -61,3 +61,9 @@
 [github]: https://github.com/anjula-sack
 [facebook]: https://www.facebook.com/anjula.shanaka
 [medium]: https://medium.com/@anjulashanaka
+
+<img src="https://github-readme-stats.vercel.app/api?username=anjula-sack&&show_icons=true&count_private=true" />
+
+**Visitors Count**
+
+![VisitorCount](https://profile-counter.glitch.me/{anjula-sack}/count.svg)
