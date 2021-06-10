@@ -5,9 +5,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/anjula-sack?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: anjula-sack](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/anjula-sack/)][linkedin]
 
-- 🔭 Working as a Software Engineer Intern at [Rootcode Labs](https://rootcodelabs.com/)
-- 📚 Volunteer at [Sustainable Educational Foundation (SEF)](https://sefglobal.org/)
-- ⚡ &ensp;Fun fact: I love Transformers & fast cars
+- 📚 Volunteering as a Software Engineer at [Sustainable Educational Foundation (SEF)](https://sefglobal.org/)
+- ⚡ &ensp;Fun fact: I'm an Intial D fan and a JDM car lover
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin]
 
 ### Connect With Me
