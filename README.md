@@ -54,14 +54,17 @@
 
 ➡️ &ensp;[More Videos...][youtube]
 
-[website]: https://anjula.me
+[website]: https://anjula.codes
 [youtube]: https://www.youtube.com/playlist?list=PLx4Ro8e0E8S_GmG75brlX1yGbILEiuY7m
 [linkedin]: https://linkedin.com/in/anjula-sack
 [github]: https://github.com/anjula-sack
 [facebook]: https://www.facebook.com/anjula.shanaka
 [medium]: https://medium.com/@anjulashanaka
 
-<img src="https://github-readme-stats.vercel.app/api?username=anjula-sack&&show_icons=true&count_private=true" />
+<p align="center">
+  <img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=anjula-sack&show_icons=true&count_private=true" />
+  <img align="middle" alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjula-sack&layout=compact&count_private=true" />
+</p>
 
 **Visitors Count**
 
