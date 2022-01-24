@@ -36,7 +36,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Launching a virtual machine on AWS EC2 instance](https://medium.com/weekly-webtips/launching-a-virtual-machine-on-amazon-ec2-instance-c385ec4fc2a2)
+- [My Internship Experience As A Rootcoder](https://medium.com/nerd-for-tech/my-internship-experience-as-a-rootcoder-80bdaec0aa35?source=rss-beea7c363d03------2)
 - [Getting started with Express Js](https://medium.com/weekly-webtips/creating-a-minimal-and-flexible-node-js-web-application-with-express-863966ac6945)
+- [Let’s Deploy A Next.Js App With Firebase Hosting](https://medium.com/nerd-for-tech/lets-deploy-a-next-js-app-with-firebase-hosting-e070b3aecd04?source=rss-beea7c363d03------2)
 - [Deploying a webapp with Heroku](https://medium.com/weekly-webtips/how-to-deploy-a-webapp-using-heroku-a1f99fbb912d)
 - [Deploying static website with surge](https://medium.com/weekly-webtips/how-to-publish-a-static-web-using-surge-db1258527f0f)
 <!-- BLOG-POST-LIST:END -->
@@ -46,8 +48,9 @@
 ### 📹 &ensp;Latest Knowledge Sharing Sessions
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Micro frontends](https://youtu.be/GLQLvncHe8Q)
+- [Getting Started with Firebase Cloud Messaging](https://youtube.com/watch?v=aRAv9oyyvZk)
 - [Cross-site scripting attacks (XSS)](https://youtu.be/kFobonVl6Gc)
+- [Getting Started with NestJs](https://youtube.com/watch?v=LI4CE6tJ8LY)
 - [Getting started with NextJs](https://youtu.be/xCT3W47thGE)
 
 <!-- BLOG-POST-LIST:END -->
