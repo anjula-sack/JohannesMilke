@@ -5,7 +5,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/anjula-sack?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: anjula-sack](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/anjula-sack/)][linkedin]
 
-- 📚 Volunteering as a Software Engineer at [Sustainable Educational Foundation (SEF)](https://sefglobal.org/)
+- 📚 CTO at [Sustainable Educational Foundation (SEF)](https://sefglobal.org/)
+- 🏫 Physical Science ICT undergraduate at University of Sri Jayawardenepura
 - ⚡ &ensp;Fun fact: I'm an Intial D fan and a JDM car lover
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin]
 
@@ -35,9 +36,9 @@
 ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Community bonding: GSoC 2022 with OpenMRS](https://medium.com/p/8c8cd17353af)
 - [Launching a virtual machine on AWS EC2 instance](https://medium.com/weekly-webtips/launching-a-virtual-machine-on-amazon-ec2-instance-c385ec4fc2a2)
 - [My Internship Experience As A Rootcoder](https://medium.com/nerd-for-tech/my-internship-experience-as-a-rootcoder-80bdaec0aa35?source=rss-beea7c363d03------2)
-- [Getting started with Express Js](https://medium.com/weekly-webtips/creating-a-minimal-and-flexible-node-js-web-application-with-express-863966ac6945)
 - [Let’s Deploy A Next.Js App With Firebase Hosting](https://medium.com/nerd-for-tech/lets-deploy-a-next-js-app-with-firebase-hosting-e070b3aecd04?source=rss-beea7c363d03------2)
 - [Deploying a webapp with Heroku](https://medium.com/weekly-webtips/how-to-deploy-a-webapp-using-heroku-a1f99fbb912d)
 - [Deploying static website with surge](https://medium.com/weekly-webtips/how-to-publish-a-static-web-using-surge-db1258527f0f)
@@ -57,7 +58,7 @@
 
 ➡️ &ensp;[More Videos...][youtube]
 
-[website]: https://anjula.codes
+[website]: https://anjula.tech
 [youtube]: https://www.youtube.com/playlist?list=PLx4Ro8e0E8S_GmG75brlX1yGbILEiuY7m
 [linkedin]: https://linkedin.com/in/anjula-sack
 [github]: https://github.com/anjula-sack
