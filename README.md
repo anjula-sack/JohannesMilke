@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://anjula.codes">Anjula Shanaka!</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://anjula.tech">Anjula Shanaka!</a></h1>
 <h3 align="center">A React developer who loves JavaScript 😜</h3>
 
 [![Youtube](https://img.shields.io/static/v1?label=AnjulaShanaka&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
