@@ -7,7 +7,7 @@
 
 - 📚 CTO at [Sustainable Educational Foundation (SEF)](https://sefglobal.org/)
 - 🏫 Physical Science ICT undergraduate at University of Sri Jayawardenepura
-- ⚡ &ensp;Fun fact: I'm an Intial D fan and a JDM car lover
+- ⚡ &ensp;Fun fact: I'm an Intial D fan and a beginner guitar player 
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin]
 
 ### Connect With Me
@@ -24,8 +24,11 @@
 
 ### Languages and Tools
 <img align="left" alt=React width="26px" src="./icons/react/react-original.svg" />
+<img align="left" alt=VueJs width="26px" src="./icons/vuejs/vuejs-original.svg" />
 <img align="left" alt=TypeScript width="26px" src="./icons/typescript/typescript-original.svg" />
 <img align="left" alt=JavaScript width="26px" src="./icons/javascript/javascript-original.svg" />
+<img align="left" alt=Python width="26px" src="./icons/python/python-original.svg" />
+<img align="left" alt=Java width="26px" src="./icons/java/java-original.svg" />
 <img align="left" alt=Redux width="26px" src="./icons/redux/redux-original.svg" />
 
 
@@ -65,11 +68,16 @@
 [facebook]: https://www.facebook.com/anjula.shanaka
 [medium]: https://medium.com/@anjulashanaka
 
-<p align="center">
-  <img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=anjula-sack&show_icons=true&count_private=true" />
-  <img align="middle" alt="mostly_used_programming_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjula-sack&layout=compact&count_private=true" />
-</p>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anjula-sack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anjula-sack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjula-sack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 **Visitors Count**
 
 ![VisitorCount](https://profile-counter.glitch.me/{anjula-sack}/count.svg)
+
+
+
+
+
