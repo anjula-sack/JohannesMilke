@@ -39,6 +39,8 @@
 ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Year 2022 in Review: A Look at the Good, the Bad, and the Ugly](https://medium.com/p/66c4478155dc)
+- [GSoC 2022: Rebuild OpenMRS Cohort Builder — Final Evaluation](https://medium.com/p/64b093b68a61)
 - [Community bonding: GSoC 2022 with OpenMRS](https://medium.com/p/8c8cd17353af)
 - [Launching a virtual machine on AWS EC2 instance](https://medium.com/weekly-webtips/launching-a-virtual-machine-on-amazon-ec2-instance-c385ec4fc2a2)
 - [My Internship Experience As A Rootcoder](https://medium.com/nerd-for-tech/my-internship-experience-as-a-rootcoder-80bdaec0aa35?source=rss-beea7c363d03------2)
