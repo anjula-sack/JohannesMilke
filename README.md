@@ -73,6 +73,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anjula-sack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjula-sack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<h3 align="left">Hacktoberfest 2022:</h3>
+
+[![An image of @anjisvj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anjisvj)](https://holopin.io/@anjisvj)
+
+<a href="https://app.daily.dev/anjisvj"><img src="https://api.daily.dev/devcards/d1ddd6691e9f4dada94bd0465fff4f30.png?r=7au" width="400" alt="Anjula Shanaka's Dev Card"/></a>
+
 **Visitors Count**
 
 ![VisitorCount](https://profile-counter.glitch.me/{anjula-sack}/count.svg)
