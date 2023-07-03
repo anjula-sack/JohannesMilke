@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://linkedin.com/in/anjula-sack">Anjula Shanaka!</a></h1>
-<h3 align="center">Passionate Technology Enthusiast and Coding Aficionado, on a Mission to Empower through Knowledge 💻🌍</h3>
+<h3 align="center">A Tech Enthusiast and Coding Maverick 🚀</h3>
 
 [![Youtube](https://img.shields.io/static/v1?label=AnjulaShanaka&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![GitHub followers](https://img.shields.io/github/followers/anjula-sack?logo=GitHub&style=for-the-badge)][github]
