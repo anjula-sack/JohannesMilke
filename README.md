@@ -79,8 +79,6 @@
 
 [![An image of @anjisvj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anjisvj)](https://holopin.io/@anjisvj)
 
-<a href="https://app.daily.dev/anjisvj"><img src="https://api.daily.dev/devcards/d1ddd6691e9f4dada94bd0465fff4f30.png?r=7au" width="400" alt="Anjula Shanaka's Dev Card"/></a>
-
 **Visitors Count**
 
 ![VisitorCount](https://profile-counter.glitch.me/{anjula-sack}/count.svg)
